@@ -1,0 +1,6 @@
+{
+  "name": "HydroPure",
+  "description": "Graphene-Assisted Smart Water Purification System - A clean premium engineering chemistry concept site comparing RO and Graphene filtration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
